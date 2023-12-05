@@ -1,0 +1,1 @@
+[[Lady Lima]]'s robot assistant. The Unfourged found her dead after the flood incident at [[Val'Eda]].

@@ -5,7 +5,6 @@
 - [[3. Locations/Gulrag.md|Gulrag]]
 - [[3. Locations/Ilphenheim.md|Ilphenheim]]
 - [[3. Locations/Kingdom of Bombelwind.md|Kingdom of Bombelwind]]
-- [[3. Locations/List of locations.md|List of locations]]
 - [[3. Locations/Mulrogh.md|Mulrogh]]
 - [[3. Locations/Parala.md|Parala]]
 - [[3. Locations/The Howling Caves.md|The Howling Caves]]

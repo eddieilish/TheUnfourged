@@ -1,13 +1,10 @@
----
-draft: "true"
----
 ```
-// Update Publish Files.md
+// Update Factions
 <%*
 const dv = app.plugins.plugins["dataview"].api;
-const filename = "List of characters";
+const filename = "List of factions";
 const query = `LIST WITHOUT ID
-FROM "2. Characters" and -[[List of characters]]
+FROM "4. Factions" and -[[List of factions]]
 SORT file.name ASC`;
 
 const tFile = tp.file.find_tfile(filename);

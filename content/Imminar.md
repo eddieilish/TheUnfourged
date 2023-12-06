@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ```leaflet
 id: DND_worldmap
 image: [[Imminar.jpg]]
@@ -16,14 +19,3 @@ marker: City,1066,258,Vomdorth,,,
 marker: City,910.59375,220.19394618834076,Val'Eda,,,
 marker: City,1042.296875,456.51193145419603,Bombelfeld,,,
 ```
-## Index
-**Key locations**
-- [[Bombelfeld]]
-- [[Val'Eda]]
-- [[Vogdorth]]
-- [[Vomdorth]]
-- [[Parala]]
-**Dungeons**
-- [[The Howling Caves]]
-## Imminar variants
-**[[Flooded Bombelwind]]

@@ -1,0 +1,4 @@
+---
+category: Communities
+type: City
+---

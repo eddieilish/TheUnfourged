@@ -8,7 +8,7 @@ Class:
 ## Description
 
 ### Appearance
-![[Captain_Prookfoot.jpg|400]]
+![[Captain_Prookfoot.png|400]]
 ### Personality
 ## Biography
 ## Relationships

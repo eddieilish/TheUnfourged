@@ -1,0 +1,1 @@
+- [[5. Key items/Shards of the Betrayer God.md|Shards of the Betrayer God]]

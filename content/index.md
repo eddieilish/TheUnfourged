@@ -9,4 +9,6 @@ You can use the search bar to look for something specific or use the index below
 ## Table of contents
 1. [[The Unfourged]]
 2. [[List of characters|Characters]]
-3. [[List of locations|Places]]
+3. [[List of locations|Locations]]
+4. [[List of factions|Factions]]
+5. [[List of key items]]

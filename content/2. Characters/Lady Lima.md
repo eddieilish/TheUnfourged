@@ -1,1 +1,1 @@
-![[Lady_Lima.png]]
+![[Lady_Lima.png|400]]

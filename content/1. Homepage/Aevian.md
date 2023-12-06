@@ -1,8 +1,4 @@
 
----
-dg-home: true
-dg-publish: true
----
 $\quad$**From**: unknown
 ## $\quad$Backstory
 There was a once a couple of wanderers, or travellers, maybe adventurers, explorers, you name it. Their names were [[Arnald Felwood]], and [[Sabine Greenfield]]. Said couple loved each other as much as they did investigating ancient ruins, studying old manuscripts and researching about long-gone civilizations. They didn’t really care about having a place to stay the night, nor did they care about having a place to call home. Sure, they had set up their main base in Mulrogh, but it’s not like they worried about getting back there as soon as possible.

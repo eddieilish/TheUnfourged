@@ -1,8 +1,3 @@
-
----
-dg-home: true
-dg-publish: true
----
 ```leaflet
 id: DND_worldmap
 image: [[Imminar.jpg]]

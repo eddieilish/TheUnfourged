@@ -10,6 +10,6 @@
 - [[2. Characters/Mirana.md|Mirana]]
 - [[2. Characters/Nesbor.md|Nesbor]]
 - [[2. Characters/Sabine Greenfield.md|Sabine Greenfield]]
-- [[2. Characters/The Brass Borns.md|The Brass Borns]]
+- [[The Brass Borns|The Brass Borns]]
 - [[2. Characters/The Korassi.md|The Korassi]]
 - [[2. Characters/Tsarra Keaven.md|Tsarra Keaven]]

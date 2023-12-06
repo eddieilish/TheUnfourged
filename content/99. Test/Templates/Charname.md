@@ -1,4 +1,10 @@
-# Thaia, the last Korassi
+---
+Origin: 
+Faction: 
+Race: 
+Class:
+---
+# Charname, title
 ## Description
 
 ### Appearance

@@ -1,0 +1,2 @@
+## About
+The Brass Borns are a group of regular bandits that lurk the fields of [[Kingdom of Bombelwind|Bombelwind]]. During one of their raids, they took [[Aevian]] from his mother arms when he was still a child, seemingly due to them needing some magic user in their group. Hence, they raised the young air genasi until he got to the age of 17. It was then when Aevian raged and craved the freedom that was taken from him and, as a way to earn it, put an end to the existence of The Brass Borns by taking their lives using what he'd learn over the years.

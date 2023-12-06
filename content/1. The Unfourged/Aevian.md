@@ -1,5 +1,13 @@
+# Aevian, the air born
+## Description
 
-$\quad$**From**: unknown
+### Appearance
+#### Aevian OG
+![[Aevian_OG.png|400]]
+#### Aevian gala
+![[Aevian_gala.jpg|400]]
+### Personality
+## Biography
 ## $\quad$Backstory
 There was a once a couple of wanderers, or travellers, maybe adventurers, explorers, you name it. Their names were [[Arnald Felwood]], and [[Sabine Greenfield]]. Said couple loved each other as much as they did investigating ancient ruins, studying old manuscripts and researching about long-gone civilizations. They didn’t really care about having a place to stay the night, nor did they care about having a place to call home. Sure, they had set up their main base in Mulrogh, but it’s not like they worried about getting back there as soon as possible.
 
@@ -18,4 +26,7 @@ Little did she know, a group of bandits, [[The Brass Borns]], broke in her house
 Aevian was trained and raised by [[The Brass Borns]] to be used as a ‘weapon’. They pretty much brainwashed so he didn’t missed his mum or cared to look for her. He thought they were his family. However as he grew older, he realised he had no one to look up to, no friends, no purpose in life. He started to question what he was meant to do, who should he care about, since (the kidnappers) only wanted him for his potential.
 
 And so, when Aevian turned 17 he decides there’s no point on being with [[The Brass Borns]]. They took away his whole life, and he’s not more than a mere ‘weapon’. He wanted revenge; they deserved to die. Then be it. He ended the life of each and every man using the skills they taught him and left to roam the world, looking to find his parents (or at least find out if they’re still alive).
-## $\quad$Events
+## Relationships
+
+## Quotes
+

@@ -1,4 +1,10 @@
-# Thaia, the last Korassi
+---
+Origin: 
+Faction: 
+Race: 
+Class: War-cleric
+---
+# Brenise
 ## Description
 
 ### Appearance

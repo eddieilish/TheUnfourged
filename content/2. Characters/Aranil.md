@@ -1,4 +1,10 @@
-# Thaia, the last Korassi
+---
+Origin: 
+Faction: 
+Race: 
+Class:
+---
+# Aranil, the Dusk Strider
 ## Description
 
 ### Appearance

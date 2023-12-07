@@ -5,7 +5,7 @@
 ### Personality
 ## Biography
 ## Relationships
-Once had [[Flymrin]] as his lover. His sister [[Mirana]] took over tho.
+Once had [[Flymrynn]] as his lover. His sister [[Mirana]] took over tho.
 ## Quotes
 
 ## $\quad$Backstory

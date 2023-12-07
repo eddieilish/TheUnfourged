@@ -1,5 +1,6 @@
-- [[4. Factions/cephalopods.md|cephalopods]]
-- [[4. Factions/enkits.md|enkits]]
+- [[4. Factions/Cephalopods.md|Cephalopods]]
+- [[4. Factions/Enkits.md|Enkits]]
+- [[4. Factions/List of factions.md|List of factions]]
 - [[4. Factions/The Brass Borns.md|The Brass Borns]]
 - [[4. Factions/The Duskstriders.md|The Duskstriders]]
 - [[4. Factions/The Korassi.md|The Korassi]]

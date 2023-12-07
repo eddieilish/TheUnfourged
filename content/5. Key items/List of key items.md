@@ -1,3 +1,2 @@
-- [[5. Key items/List of key items.md|List of key items]]
 - [[5. Key items/Shadoweye.md|Shadoweye]]
 - [[5. Key items/Shards of the Betrayer God.md|Shards of the Betrayer God]]

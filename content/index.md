@@ -13,3 +13,4 @@ You can use the search bar to look for something specific or use the index below
 3. [[List of locations|Locations]]
 4. [[List of factions|Factions]]
 5. [[List of key items]]
+6. [[List of Quests|Quests]]

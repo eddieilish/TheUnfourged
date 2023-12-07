@@ -21,7 +21,6 @@
 - [[2. Characters/King of Vogdorth.md|King of Vogdorth]]
 - [[2. Characters/Korellon.md|Korellon]]
 - [[2. Characters/Lady Lima.md|Lady Lima]]
-- [[2. Characters/List of characters.md|List of characters]]
 - [[2. Characters/Lunala.md|Lunala]]
 - [[2. Characters/Metrifa.md|Metrifa]]
 - [[2. Characters/Milo & Finn.md|Milo & Finn]]

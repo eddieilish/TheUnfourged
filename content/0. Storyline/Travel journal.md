@@ -1,11 +1,13 @@
+## Prologue
 At [[Boldar]], a small village in the [[Kingdom of Bombelwind]], which has mainly dwarves and halflings as population (this kingdom was defeated in war by the Elves centuries ago and even though they’re at peace now, they still have to regularly pay a lot of taxes), our heroes meet for the first time:
 - [[Vaatu]]: Triton Prince of [[Parala]] (underwater city), banished due to a terrorist attack, trying to regain his honour.
 - [[Thaia]]: Centaur warrior in search of her tribe, [[The Korassi]] (last time anybody saw a centaur was 100 years ago).
 - [[Yhara]]: Fallen aasimar trying to find out why she one day suddenly fell.
 - [[Aevian]]: Air genashi kidnapped and raised by [[The Brass Borns]], a group of bandits.
 
-We were asked for help by the villagers, since they’re being attacked by a pack of magical and very intelligent wolves. [[Brenise]] (war-cleric) joins us after one of these attacks injured her father. We finally find the cave where the wolves are and realise they have a human pre-existance (Brenise took their corpses to the capital to analyse them at a temple), killed them and liberated the villagers + Vaatu adopted twin puppies, [[Milo & Finn]] (safely kept in a bracelet/poke-ball) + we got a bag-hole. Later on, celebrating in the tavern, Yahra charms a halfling trying to prank Vaatu, but she ends up sleeping with her.
-
+We were asked for help by the villagers, since they’re being attacked by a pack of magical and very intelligent wolves. [[Brenise]] joins us after one of these attacks injured her father. We finally find the cave where the wolves are and realise they have a human pre-existence (Brenise took their corpses to the capital to analyse them at a temple), killed them and liberated the villagers. Vaatu took his chance adopted a pair of twin puppies from the lair, which he named [[Milo & Finn]] (==safely kept in a bracelet/poke-ball==* *this happens later, to be rearranged*). During the looting process, we also got a really handy [[Portable hole]]. Later on, celebrating the victory in the tavern, Yahra charms a female halfling in an attempt to prank Vaatu, but she ends up sleeping with her.
+# Chapter I. Welcome to Bombelwind
+## Act I. The Howling Caves
 Once we were done in this village, Yahra had visions about [[Vogdorth]] (one of the rich Dwarf cities in twin peaks), so we decided to go there. However, on the way there we are attacked by [[Aranil]] and Yahra confesses that he is part of [[The Duskstriders]], a group of fallen aasimar assassins who have been trying to recruit her.
 
 ![|400](https://lh7-us.googleusercontent.com/kEWcAknCn7HAnGZWV-k3qtZbS8eSWV6VFYT_K8xKLofXVc-8kTG4aXUgLULjVPGFTboLXqlqngeMK5439VyZv95yieYC8ascu5_thAhm1Io-UJKSXEzijkIQF2ncP_a2ZRzdzWWAawtDVw_6mhA_ACg)
@@ -19,16 +21,17 @@ We decided to follow Aevian’s map to [[The Howling Caves]] in the outskirts of
 There were a couple of ice elementals that killed Cemu but we were aided by [[Flymrynn]] (Vaatu’s exboyfriend) and [[Phteven]]. They happened to be there because these ruins in the tunnels have some connection to [[Gruumsh the Ruiner]] (Thaia finds out that she already has a shard of him inside which was why she bled tears of blood of her from a vision given by a hag that brought her back to life). In this cave there should be one of Gruumsh’s 3 [[Shards of the Betrayer God|shards]], but apparently the shard that should have been there was already stolen by the [[Cephalopods]] (the other species that coinhabits Parala and apparently orchestrated the terrorist attack that got Vaatu banished). Thaia also finds an amulet of scrying (which allows to spy on somebody once a day).
 
 We accidentally activate a trap and the tunnels get rapidly filled with water, but Yahra manages to reduce the locked gates of the cave and later return them to their original size so we can escape and not drown. Flymrynn leaves for [[Ilphenheim]] to inform the Elves after gifting us a ring to breathe underwater (and after kissing Vaatu goodbye), so we decide to go back into the tunnel to examine a mysterious egg, which upon lifting it, opens a tunnel that takes us all the way to the ocean.
-
+## Act II. The underwater city
 ![|400](https://lh7-us.googleusercontent.com/EUQrj9nrrkK0E1mIk0OL-Laa7vyCClnAu1NSzzVATVOKlMOks-nwZELSspsuiXmMEYVW6hkauorqowIgC1rXEoQTI1wvYMWcn6CMl1rH2W6ZTm7wkE5eGz3pNbwy3rfGNWvHu-hjGjNOq6owN8sNyto)
 
-We make our way to [[Parala]] to find out what is going on and warn the Royal Family of the soon-to-be uprising of the Cephlopods. Since Vaatu is still banished, we hide in an old shipwreck in the outskirts (fun anecdote: we try to teach Thaia how to write her own name… unsuccessfully) until [[Atchulu]] (Vaatu’s cephlopod old mentor) sneaks them in the city, where they meet up with [[Mirana]] (Vaatu’s sister) and [[Metrifa]] (Mirana’s tortle mentor).
+We make our way to [[Parala]] to find out what is going on and warn the Royal Family of the soon-to-be uprising of the Cephlopods. Since Vaatu is still banished, we hide in an old shipwreck in the outskirts (fun anecdote: we try to teach Thaia how to write her own name… unsuccessfully) until [[Atchulu]] sneaks them in the city, where they meet up with [[Mirana]] and [[Metrifa]].
 
 Together, they make their way into the cephlopods’ headquarters to stop them from bringing back [[Alphea]] (abyssal jellyfish and daughter of Gruumsh). When we barely defeat them (EPIC BATTLE BTW), as Thaia delivers the final blow, the second shard enters her and she multiclasses to cleric. They are declared heroes of Parala, invited to the Royal Palace and Vaatu is unbanished (yaay!) and they get a lot of moneymoneymoneyyyy.
 
 ![|400](https://lh7-us.googleusercontent.com/OURaMhAxsjTC-OIhn9Y0UErXwNTIv4kFyDw6aNnXWT3HM3d0sOnJ8knQqCMK2xQopSA_b7OHZAya1LL8dDYx1hyCBaCYbhOfabAp7oINOgQC0U2X1IvE5DPq-3mzyMiXFfEJZyJZgEpV7Km0UVZb4gE)
 
-Now that this is issues are solved in Parala, we decide to travel to [[Val'Eda]] (human city of elven past by the Bombelwind coast) because Yahra wanted to check on her friends + Thaia’s vision during her trance at the Cehplopods headquarters said there was a sacred place of her tribe closeby. We mount [[Lunala]] (Vaatu’s whale) to land. Once on land, while on our way across Bombelwind, near Bombelfeld (capital of Bombelwind), we get attacked by an [[Dao, the earth bitch]] that wants to capture Aevian and take him to the earth elemental plane (we manage to defeat her).
+## Act III.  Awakening
+Now that these issues are solved in Parala, we decide to travel to [[Val'Eda]] (human city of elven past by the Bombelwind coast) because Yahra wanted to check on her friends + Thaia’s vision during her trance at the Cehplopods headquarters said there was a sacred place of her tribe closeby. We mount [[Lunala]] (Vaatu’s whale) to land. Once on land, while on our way across Bombelwind, near Bombelfeld (capital of Bombelwind), we get attacked by an [[Dao, the earth bitch]] that wants to capture Aevian and take him to the earth elemental plane (we manage to defeat her).
 
 ![|600](https://lh7-us.googleusercontent.com/ObDokXxedG3z1WrWUtadxfJf6Waaznem2RTuZ7A46zniGguR2kyExbCKEBjTOXPpFeRM2KIlT8Cr952-04vAYwYnGJTpBKzahVOJhUDIiZi9igerYCYisJOZj39PsoWEroEgxGWW8ArLtbN9cNNJ6vM)
 On the second half of the trip to Val’Eda we have to go by sea, so we arrive at a fishing village (in which there was a potion gnome with a sidequest we ignored) to find a ship. We finally join some pirates (quote of one of the pirates waking up Vaatu and Yahra sleeping in the same hammock: “prince and… princess?” *Yahra is in shock and Vaatu falls*). [[Captain Prookfoot]] tells us about his “adopted son” [[Nesbor]], a water genasi who, like Aevian, was attacked by an elemental.
@@ -52,7 +55,7 @@ However, we are arrested on sight in Val’Eda by [[Isadora Braag]] the Mythril 
 We are aided by [[Lady Lima]] and [[Voldria]] (Yahra’s aasimar friend/sister), who arrives on her giant eagle (later killed). EPIC BATTLE in which we knock out [[Fhaelor]] (leader of the Dusk Striders) and Aranil (and learn they have their base somewhere in Ilphenheim) and Vaatu takes on the Dragon by himself, seriously damaging him and blinding him of one eye.
 
 At some point in the fight Thaia absorbs the 3rd shard and, now having all 3 of them, she duplicates herself into the [[Nightmare]] (and loses her cleric multiclass in the process). This fight is too much for our heroes and, in her final breath, Lady Lima transforms into a bronze dragon and teleports them to [[Ilphenheim]] (Elven kingdom) telling us to ask Dory about “[[Protocol Fallen Lizard]]”.
-
+## Act IV. Operation fallen lizard
 We were dead for a month recovering in [[Inkalille]] (capital of Ilphenheim) and during that time talked with [[Korellon]] (Elven god). He tells Yahra that she has a spark of [[Avandra, the changebringer]] in her and she should look for a temple of her deity because she may be able to turn back to regular aasimar.
 
 ![|400](https://lh7-us.googleusercontent.com/KRFSy5thKybe_qLOBwuqzEzkMxJQ0BZsKzsP4Sw0u_ar_mO9Kr33b7zwv1Aig4XqhcMeApdipxVGxa2gr7sEnjTdkc51Vo8Jq4Bhk35wLxvuMh_PxCS6W8f194lZ98FM14_6Ms3oMtVj85-U2TagpJw)
@@ -70,14 +73,3 @@ We go back to [[Val'Eda]] by aircraft (we are attacked by flying demons on the w
 We are attacked by elementals and aided by [[Nesbor]] the water genashi (Yahra multiclasses to rogue). We find some of the the refugees of Val’Eda and the archdruid under the roots of the giant tree and with Lunala take them back to the surface. While we wait for Lunala, Aevian has another vision of the Akadi the Queen of Air: he and Nesbor are [[Enkits]], children of elemental gods, whose existance is forbidden and that’s why they’re being chased by earth-elementals to be killed (Nesbor still has to try to contact his water-god-parent, maybe at a temple in Parala). She also tells Aevian we should go to the air plane (she’s gonna give us powers).
 
 Once on the surface to deliver the refugees, there was a battle and we join [[Thimiopis]]. We are also on the way to Parala because Mirana messaged Vaatu telepathically that it’s under attack by elementals. We also wanted to go to [[Crystal Crest]] to fix Dory.
-## Main quests
-1. Who’s The Unfothomable? He wants the shards and Azzacrotzz The Sizzling Death and the Dusk Striders work for him.
-2. Parala is under attack by elementals and King Agledu is acting weird locked up in his chambers.
-3. Yahra may be able to turn back to regular aasimar contacting Avandra The Changebringer at a temple of hers.
-4. The Dusk Striders (also: how many are still alive?) have their base somewhere in Ilphenheim (Flymrynn and Voldria are currently looking for it).
-5. Akadi the Queen of Air tells Aevian he has to go the the Air Plane and grant him powers.
-## Side-quests
-1. Nesbor should try contacting his water-deity-parent, maybe at a temple in Parala.
-2. Go to Crystal Crest to fix Dory and learn about Protocol Fallen Lizzard.
-3. Brenise took the corpses of the magical/intelligent wolves to Bombelfeld to analyse them at a temple and unveil more about their prehuman existence.
-4. Potion gnome with a sidequest we ignored at the pirate fishing village.

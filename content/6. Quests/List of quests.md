@@ -1,6 +1,4 @@
-- [[6. Quests/Find out who is The Unfothomable.md|Find out who is The Unfothomable]]
-- [[6. Quests/Parala under attack.md|Parala under attack]]
-- [[6. Quests/Protocol Fallen Lizard.md|Protocol Fallen Lizard]]
-- [[6. Quests/Stop the Duskstriders plan.md|Stop the Duskstriders plan]]
-- [[6. Quests/Visit the plane of Air.md|Visit the plane of Air]]
-- [[6. Quests/Yhara's healing.md|Yhara's healing]]
+| Relevance  | Name                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Main Quest | [[6. Quests/Find out who is The Unfothomable.md\|Find out who is The Unfothomable]]<br>[[6. Quests/Parala under attack.md\|Parala under attack]]<br>[[6. Quests/Protocol Fallen Lizard.md\|Protocol Fallen Lizard]]<br>[[6. Quests/Stop the Duskstriders plan.md\|Stop the Duskstriders plan]]<br>[[6. Quests/Visit the plane of Air.md\|Visit the plane of Air]]<br>[[6. Quests/Yhara's healing.md\|Yhara's healing]] |
+| Side Quest | [[6. Quests/A furry situation.md\|A furry situation]]<br>[[6. Quests/Get your tech-head together.md\|Get your tech-head together]]<br>[[6. Quests/Nesbor and the water plane.md\|Nesbor and the water plane]]<br>[[6. Quests/Take a sip, and a seat.md\|Take a sip, and a seat]]                                                                                                                                       |

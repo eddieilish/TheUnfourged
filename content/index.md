@@ -8,7 +8,7 @@ The Unfourged is the name of a **DnD** campaign played by 4 main characters and 
 
 You can **use the search bar** to look for something specific or use the index below for some ideas!
 ## Table of contents
-0. [[Storyline]]
+0. [[0. Storyline/Travel journal]]
 1. [[The Unfourged]]
 2. [[List of characters|Characters]]
 3. [[List of locations|Locations]]

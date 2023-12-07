@@ -8,7 +8,7 @@ Class:
 ## Description
 
 ### Appearance
-![[Persana.jpg|]]
+![[Persana.jpg]]
 ### Personality
 ## Biography
 ## Relationships

@@ -1,5 +1,4 @@
 - [[6. Quests/Find out who is The Unfothomable.md|Find out who is The Unfothomable]]
-- [[6. Quests/List of quests.md|List of quests]]
 - [[6. Quests/Parala under attack.md|Parala under attack]]
 - [[6. Quests/Protocol Fallen Lizard.md|Protocol Fallen Lizard]]
 - [[6. Quests/Stop the Duskstriders plan.md|Stop the Duskstriders plan]]

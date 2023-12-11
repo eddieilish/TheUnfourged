@@ -40,3 +40,4 @@
 - [[2. Characters/Thimiopis.md|Thimiopis]]
 - [[2. Characters/Tsarra Keaven.md|Tsarra Keaven]]
 - [[2. Characters/Voldria.md|Voldria]]
+- [[2. Characters/Kossuth.md|Kossuth]]

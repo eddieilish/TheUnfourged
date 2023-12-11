@@ -13,3 +13,4 @@
 - [[3. Locations/Val'Eda.md|Val'Eda]]
 - [[3. Locations/Vogdorth.md|Vogdorth]]
 - [[3. Locations/Vomdorth.md|Vomdorth]]
+- [[3. Locations/Elemental Plane of Fire.md|Elemental Plane of Fire]]

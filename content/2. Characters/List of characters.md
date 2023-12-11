@@ -20,6 +20,7 @@
 - [[2. Characters/King Agledu.md|King Agledu]]
 - [[2. Characters/King of Vogdorth.md|King of Vogdorth]]
 - [[2. Characters/Korellon.md|Korellon]]
+- [[2. Characters/Kossuth.md|Kossuth]]
 - [[2. Characters/Kriella.md|Kriella]]
 - [[2. Characters/Lady Lima.md|Lady Lima]]
 - [[2. Characters/Lunala.md|Lunala]]
@@ -40,4 +41,4 @@
 - [[2. Characters/Thimiopis.md|Thimiopis]]
 - [[2. Characters/Tsarra Keaven.md|Tsarra Keaven]]
 - [[2. Characters/Voldria.md|Voldria]]
-- [[2. Characters/Kossuth.md|Kossuth]]
+

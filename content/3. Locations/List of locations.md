@@ -2,6 +2,7 @@
 - [[3. Locations/Bombelfeld.md|Bombelfeld]]
 - [[3. Locations/Crystal Crest.md|Crystal Crest]]
 - [[3. Locations/Dumdihr.md|Dumdihr]]
+- [[3. Locations/Elemental Plane of Fire.md|Elemental Plane of Fire]]
 - [[3. Locations/Gulrag.md|Gulrag]]
 - [[3. Locations/Ilphenheim.md|Ilphenheim]]
 - [[3. Locations/Inkalille.md|Inkalille]]
@@ -13,4 +14,3 @@
 - [[3. Locations/Val'Eda.md|Val'Eda]]
 - [[3. Locations/Vogdorth.md|Vogdorth]]
 - [[3. Locations/Vomdorth.md|Vomdorth]]
-- [[3. Locations/Elemental Plane of Fire.md|Elemental Plane of Fire]]

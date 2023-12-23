@@ -1,5 +1,6 @@
 - [[3. Locations/Boldar.md|Boldar]]
 - [[3. Locations/Bombelfeld.md|Bombelfeld]]
+- [[3. Locations/Bombelwind.md|Bombelwind]]
 - [[3. Locations/Crystal Crest.md|Crystal Crest]]
 - [[3. Locations/Dumdihr.md|Dumdihr]]
 - [[3. Locations/Elemental Plane of Fire.md|Elemental Plane of Fire]]

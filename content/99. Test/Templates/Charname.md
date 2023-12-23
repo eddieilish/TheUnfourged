@@ -2,7 +2,8 @@
 Origin: 
 Faction: 
 Race: 
-Class:
+Class: 
+draft: true
 ---
 # Charname, title
 ## Description

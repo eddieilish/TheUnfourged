@@ -3,9 +3,9 @@
 Vaatu is deeply motivated by his quest to regain his honour. He has been banished from his kingdom due to an attack that occurred on the Cephlopod researchers, which he was in charge of protecting as prince and head of the military. Many lives and important research were lost, and he was banished from the kingdom and to never come back until he regained his honour. The attackers and the reason behind it still remain a mystery. He now roams the surface land in search of the attackers as his last hope to come back home (although that may not be what he tells strangers at first, he will probably say he’s an emissary of the underwater kingdom on a very important mission)
 ### Appearance
 #### Vaatu OG
-![|400](https://lh7-us.googleusercontent.com/DQG55qXn4cIFse4v0xpjvcNnK5KYnykbVj2ld0FwdAe6X4P5RBX6rlvfnkZmh0zpYn7OSv577opOHlB73naDrE3MkLU0hXn8YUgd4WjK1nicXhN_wnNF72u0cfrNeTeLZy9rt-3MqorGUY5r9itt0iM)
+![](https://lh7-us.googleusercontent.com/DQG55qXn4cIFse4v0xpjvcNnK5KYnykbVj2ld0FwdAe6X4P5RBX6rlvfnkZmh0zpYn7OSv577opOHlB73naDrE3MkLU0hXn8YUgd4WjK1nicXhN_wnNF72u0cfrNeTeLZy9rt-3MqorGUY5r9itt0iM)
 #### Vaatu gala
-![[Vaatu_gala.png|400]]
+![[Vaatu_gala.png]]
 ### Personality
 #### Fears
 Being treated like a commoner forever. Having been brought up with a silver spoon in his mouth, he is not adjusting well to the banished life without luxuries. He’s afraid to never regain his honour and to live the rest of his days like that.

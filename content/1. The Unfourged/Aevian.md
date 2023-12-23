@@ -1,11 +1,11 @@
 # Aevian, the air born
 ## Description
-
+Aevian is an air ghenasi forcefully raised by a group of bandits, [[The Brass Borns]]. He was taken from his mother by them at a very young age and learnt the trickery and combat skills of the pillaging lifestyle. Once he reached the age of 17, he sought freedom and vengeance for the atrocities he had committed under the command of The Brass Borns. He made sure they would not ruin the life of any other innocent child or being and left to roam the world at his own will. Now, Aevian wanders the land of [[Bombelwind]] looking for the slightest hint that can lead him to find his parents, while under the vow of limiting the use of his skills to help the ones in need.
 ### Appearance
 #### Aevian OG
-![[Aevian_OG.png|400]]
+![[Aevian_OG.png]]
 #### Aevian gala
-![[Aevian_gala.jpg|400]]
+![[Aevian_gala.jpg]]
 ### Personality
 ## Biography
 ## $\quad$Backstory

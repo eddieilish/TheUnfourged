@@ -1,3 +1,4 @@
+- [[5. Key items/Cloak of the Manta Ray.md|Cloak of the Manta Ray]]
 - [[5. Key items/Portable hole.md|Portable hole]]
 - [[5. Key items/Shadoweye.md|Shadoweye]]
 - [[5. Key items/Shards of the Betrayer God.md|Shards of the Betrayer God]]

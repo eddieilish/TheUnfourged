@@ -30,3 +30,4 @@ Due to his royal upbringing, he is acquainted with formal protocol and has recei
 - The attackers of Parala.
 - Some [[Cephlopods]] politicians in the Council who seek to weaken his family’s power and strengthen the Council’s, and thus voted strongly in favour of his banishment.
 ## Quotes
+> [!cite] "But how does Thaia sleep?" -He doesn't seem to grasp it yet.

@@ -12,4 +12,4 @@
 - [[Thimiopis]]' best friend
 
 ## Quotes
-> [!cite] What are 'taxes'?
+> [!cite] "What are 'taxes'?" -*A menace to capitalism*

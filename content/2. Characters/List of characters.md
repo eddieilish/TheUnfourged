@@ -7,6 +7,7 @@
 - [[2. Characters/Avandra, the changebringer.md|Avandra, the changebringer]]
 - [[2. Characters/Azzacrotzz.md|Azzacrotzz]]
 - [[2. Characters/Betrayer God.md|Betrayer God]]
+- [[2. Characters/Brenda.md|Brenda]]
 - [[2. Characters/Brenise.md|Brenise]]
 - [[2. Characters/Captain Prookfoot.md|Captain Prookfoot]]
 - [[2. Characters/Cemu Cemuphnil.md|Cemu Cemuphnil]]
@@ -41,4 +42,3 @@
 - [[2. Characters/Thimiopis.md|Thimiopis]]
 - [[2. Characters/Tsarra Keaven.md|Tsarra Keaven]]
 - [[2. Characters/Voldria.md|Voldria]]
-

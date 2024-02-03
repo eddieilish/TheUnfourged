@@ -5,5 +5,6 @@ tags: []
 ---
 
 # Elemental Plane of Fire
+![[PlaneOfFire.jpg]]
 ## About
 Much fire such hot
